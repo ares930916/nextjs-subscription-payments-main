@@ -1,9 +1,6 @@
 # Next.js Subscription Payments Starter
 
 
-> [!WARNING]  
-> This repo has been sunset and replaced by a new template: https://github.com/nextjs/saas-starter
-
 ## Features
 
 - Secure user management and authentication with [Supabase](https://supabase.io/docs/guides/auth)
@@ -13,13 +10,8 @@
 
 ## Demo
 
-- https://subscription-payments.vercel.app/
-
 [![Screenshot of demo](./public/demo.png)](https://subscription-payments.vercel.app/)
 
-## Architecture
-
-![Architecture diagram](./public/architecture_diagram.png)
 
 ## Step-by-step setup
 
