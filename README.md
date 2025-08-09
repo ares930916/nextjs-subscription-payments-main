@@ -12,9 +12,7 @@
 
 [![Screenshot of demo](./public/demo.png)](https://subscription-payments.vercel.app/)
 
-
 ## Step-by-step setup
-
 When deploying this template, the sequence of steps is important. Follow the steps below in order to get up and running.
 
 ### Initiate Deployment
