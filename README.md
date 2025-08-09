@@ -92,7 +92,6 @@ For example, you can create business models with different pricing tiers, e.g.:
 Optionally, to speed up the setup, we have added a [fixtures file](fixtures/stripe-fixtures.json) to bootstrap test product and pricing data in your Stripe account. The [Stripe CLI](https://stripe.com/docs/stripe-cli#install) `fixtures` command executes a series of API requests defined in this JSON file. Simply run `stripe fixtures fixtures/stripe-fixtures.json`.
 
 **Important:** Make sure that you've configured your Stripe webhook correctly and redeployed with all needed environment variables.
-
 #### Configure the Stripe customer portal
 
 1. Set your custom branding in the [settings](https://dashboard.stripe.com/settings/branding)
