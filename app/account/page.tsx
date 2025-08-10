@@ -9,6 +9,8 @@ import {
   getUser
 } from '@/utils/supabase/queries';
 
+
+
 export default async function Account() {
   const supabase = createClient();
   const [user, userDetails, subscription] = await Promise.all([
