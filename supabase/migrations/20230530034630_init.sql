@@ -2,6 +2,9 @@
 * USERS
 * Note: This table contains user data. Users should only be able to view and update their own data.
 */
+
+
+
 create table users (
   -- UUID from auth.users
   id uuid references auth.users not null primary key,
